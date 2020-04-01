@@ -1,7 +1,7 @@
 # CRT-Calculator
 An Algorithmic implementation of Chinese Remainder Theorem 
 
-<h3>As the process to find a number using CRT;this application provides a quick result to your problem</h3>
+<h3>As the process to find a number using CRT.<br>This application provides a quick result to your problem .Henceforth saving your valuable time.</h3>
 <h4>This shows the working of Chinese remainder theorem</h4>
 
 Let r and s be positive integers which are relatively prime and let a and b be any two integers. Then there is an integer N such that
